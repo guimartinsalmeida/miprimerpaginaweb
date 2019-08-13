@@ -1,0 +1,69 @@
+/*SELECTOR DE ETIQUETA*/
+
+
+img{
+    width: 196px;
+    height: auto;
+}
+
+#intro{
+    width: 100vw;
+    height: 25vh;
+    background-color: tomato;
+    position: relative;
+}
+h1{
+    color: white;
+    position:absolute;
+    left: 50%;
+    top: 40%;
+    display: inline;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#about{
+    width: 100vw;
+    height: 25vh;
+    background-color: papayawhip;
+    position: relative;
+}
+
+#about h2{
+    text-align: center;
+}
+
+#about p{
+    margin-top: 80px;
+}
+
+#fun{
+    width: 100vw;
+    height: 25vh;
+    background-color: yellow;
+    position: relative;
+}
+
+#fun p{
+    margin-left: 1200px;
+    margin-top: 80px;
+}
+
+#contacto{
+    width: 100vw;
+    height: 25vh;
+    background-color: peru;
+    position: relative;
+    text-align: center
+}
+
+#contacto span{
+text-align:  center;
+display: inline;
+top: 80px;
+position: relative;
+
+}
+
